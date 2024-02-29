@@ -1,4 +1,4 @@
-# TITULO DO PROJETO
+# CALC-MÉDIA
 
 Sistema simples voltado para calcular médias aritméticas.
 
