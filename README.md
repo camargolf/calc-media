@@ -4,7 +4,7 @@
 
 Sistema simples voltado para calcular médias aritméticas.
 
-## Tecnologias utlizadas:
+## 🚀 Tecnologias utlizadas:
 
 - [x] Delphi.
 
