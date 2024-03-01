@@ -1,4 +1,12 @@
-# CalcMédia
+<h1 align="center">
+  CalcMédia
+</h1>
+
+<p align="center">
+  ![preview calc](https://github.com/camargolf/calc-media/assets/160692105/f8ca1563-eb77-4801-aa8c-d1f9f8859782)
+  ![preview2 calc](https://github.com/camargolf/calc-media/assets/160692105/295617de-8dfc-444e-bdd5-b9f719a50c1c)
+  ![preview3 calc](https://github.com/camargolf/calc-media/assets/160692105/5b90d1a0-6c91-4def-bd56-ec487692b4d1)
+</p>
 
 ## 💻 Projeto:
 
