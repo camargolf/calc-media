@@ -10,7 +10,7 @@
 
 ## 💻 Projeto:
 
-Sistema simples voltado para calcular médias aritméticas.
+Sistema simples voltado à calcular médias aritméticas, sendo exigido, uma nota igual ou maior que 5 para ser aprovado e menor que 5 para ser reprovado.
 
 ## 🚀 Tecnologias utlizadas:
 
